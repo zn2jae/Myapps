@@ -1,4 +1,4 @@
-import streamlit as st  # 🔧 이 줄이 추가되어야 함
+import streamlit as st
 from gtts import gTTS
 from io import BytesIO
 
