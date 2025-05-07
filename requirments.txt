@@ -2,5 +2,3 @@ gtts
 streamlit
 pandas
 requests
-io
-BytesIO
